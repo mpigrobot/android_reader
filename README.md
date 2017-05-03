@@ -1,4 +1,4 @@
-项目地址：[https://github.com/sunzuolei/android_reader](https://github.com/sunzuolei/android_reader)
+联系我：437963226@qq.com
 
 # MyReader
 #### "阅读" 网络小说阅读器，实现追书推荐收藏、书籍/标签检索、模拟翻书的翻页效果、缓存书籍、日夜间模式、本地txt书籍阅读、字体/主题/亮度设置等功能！
